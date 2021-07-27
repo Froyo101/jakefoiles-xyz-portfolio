@@ -1,5 +1,37 @@
 .App {
-  text-align: center;
+}
+
+.content {
+  background-color: #132C33;
+  color: #D8E3E7;
+}
+
+.prim-text {
+  color: #D8E3E7;
+}
+
+.sec-text {
+  color: #51C4D3;
+}
+
+.tert-text {
+  color: #126E82;
+}
+
+.prim-bg {
+  background-color: #132C33;
+}
+
+.sec-bg {
+  background-color: #126E82;
+}
+
+.tert-bg {
+  background-color: #51C4D3;
+}
+
+.portrait {
+  border-radius: 50%;
 }
 
 .App-logo {
