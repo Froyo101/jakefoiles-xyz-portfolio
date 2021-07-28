@@ -1,9 +1,25 @@
+body {
+  background-color: #132C33;
+}
+
 .App {
+  color: #D8E3E7;
 }
 
 .content {
-  background-color: #132C33;
-  color: #D8E3E7;
+}
+
+.jumbo-section {
+  margin: 15px;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.section {
+  margin: 15px;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 0px #51C4D3;
 }
 
 .prim-text {
@@ -32,6 +48,8 @@
 
 .portrait {
   border-radius: 50%;
+  border-style: solid;
+  border-color: #51C4D3;
 }
 
 .App-logo {
