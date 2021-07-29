@@ -2,6 +2,10 @@ body {
   background-color: #132C33;
 }
 
+a {
+  color: #51C4D3;
+}
+
 .App {
   color: #D8E3E7;
 }
@@ -50,6 +54,18 @@ body {
   border-radius: 50%;
   border-style: solid;
   border-color: #51C4D3;
+}
+
+.work-carousel {
+  max-width: 75%;
+  max-height: auto;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+
+.carousel-img {
+  border-radius: 15px;
 }
 
 .App-logo {
